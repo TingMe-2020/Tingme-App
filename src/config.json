@@ -1,0 +1,8 @@
+{
+  "maxFeaturedBadgesCount": 3,
+  "maxSelectedBadgesCount": 5,
+  "conversationGraphUrl": "https://api.tingme.vn/api/conversation-graphql",
+  "userGraphUrl": "https://api.tingme.vn/api/user-graphql",
+  "tingGraphUrl": "https://api.tingme.vn/api/ting-graphql",
+  "socketBaseUrl": "https://api.tingme.vn"
+}
